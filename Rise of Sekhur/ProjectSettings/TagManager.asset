@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - TutorialRequirement
+  - Traps
+  - Platform
+  - Ladders
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - player
+  - 
+  - 
+  - 
+  - platform
+  - Ladders
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BG
+    uniqueID: 3909770261
+    locked: 0
+  - name: Platforms
+    uniqueID: 3021054791
+    locked: 0
+  - name: Ladders
+    uniqueID: 2937725819
+    locked: 0
+  - name: Level Triggers
+    uniqueID: 3318222687
+    locked: 0
+  - name: Player
+    uniqueID: 661677125
+    locked: 0
+  - name: Level Gates
+    uniqueID: 1365889351
+    locked: 0
